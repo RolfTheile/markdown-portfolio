@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Some random image as example](https://www.syracuse.com/resizer/BsL6WPUIkdgCgEgO4juHsyBvdRg=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/0b5bb585f6/width2048/02d_nibsys6.jpeg)
